@@ -1,2 +1,3 @@
 1. Getting start: npm create vite@latest
-2. 
+2. ui updation ko react control karta hai.
+3. 
