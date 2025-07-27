@@ -1,3 +1,4 @@
-1. Getting start: npm create vite@latest
-2. ui updation ko react control karta hai.
-3. 
+1. `npm`: for installing packages in system, use `npx` if you don't want to install packages in your system.
+2. Basic way to create React app: npx create-react-app app_name
+3. create React app through vite: npm create vite@latest
+4. 1st go to package.json file there you will see everything dependencies, dev-dependencies, scripts file.
