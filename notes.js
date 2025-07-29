@@ -3,6 +3,7 @@
 // 1. vite is a blundler.
 // 2. ui updation ko react control karta hai.
 // 3. With every project make a good `Readme` file. Sir have better template for readme file get it.
+// 4. 
 
 
 // Lecture-3(Folder: 01): Understand the react flow and structure
@@ -39,4 +40,6 @@
  // 2. 
 
 
- // Lecture-7: 
+ // Lecture-7: Tailwind and props in React
+
+ // 1. props is a object.

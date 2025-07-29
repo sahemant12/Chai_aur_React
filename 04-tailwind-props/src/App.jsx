@@ -7,11 +7,9 @@ function App() {
   }
   let arr = [1, 2, 3];
 
-
   return (
     <>
       <Card name="Hemant" marks={mark} myObj={newObj} num={arr}/>
-      <Card />
     </>
   )
 }

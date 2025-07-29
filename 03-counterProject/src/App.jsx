@@ -20,6 +20,23 @@ function App() {
       setCounter(counter+1);
     }
   }
+  //interview Ques
+  //   function increment(){
+  //   if(counter<10){
+  //     setCounter(counter+1);
+  //     setCounter(counter+1);
+  //     setCounter(counter+1);
+  //     setCounter(counter+1);
+  //     setCounter(counter+1);
+  //     // only 1 time setCounter() will update because react send the setCounter() in batches. If you want to update the counter everytime then use preCounter to update setCounter() each time.
+  //     setCounter(prevCounter => prevCounter+1);
+  //     setCounter(prevCounter => prevCounter+1);
+  //     setCounter(prevCounter => prevCounter+1);
+  //     setCounter(prevCounter => prevCounter+1);
+  //     setCounter(prevCounter => prevCounter+1);
+  //   }
+  // }
+  
   function decrement(){
     if(counter>0){
       setCounter(counter-1);

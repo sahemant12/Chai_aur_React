@@ -2,3 +2,4 @@
 2. Basic way to create React app: npx create-react-app app_name
 3. create React app through vite: npm create vite@latest
 4. 1st go to package.json file there you will see everything dependencies, dev-dependencies, scripts file.
+5. shortcut: Extension: `React Snippet`: rfce
