@@ -1,0 +1,2 @@
+1. In the main file where todo "<TodoProvider> </TodoProvider>" present write all the logic.
+2. addTodo, deleteTodo, updateTodo, toggleComplete, local storage AND use them all in another file by the help of context API.
